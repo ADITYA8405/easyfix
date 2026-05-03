@@ -20,6 +20,7 @@ This project focuses on clean architecture, reusable widgets, and responsive des
 
 ### 📱 Mobile View
 🧾  Layout
+
 ![Mobile UI](./assets/screenshots/app.png)
 
 🛠️ Services Section
