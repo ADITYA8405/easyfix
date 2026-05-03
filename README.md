@@ -6,15 +6,29 @@ This project focuses on clean architecture, reusable widgets, and responsive des
 
 
 
-## 📱 Preview
+## 📱 Preview-
 
 ### 💻 Web View
-
-
+🧾  Layout
+![Web UI](assets/screenshots/web.png)
+🛠️ Services Section
+![Web UI](assets/screenshots/web_services.png)
+⚠️ Error Codes Section
+![Web UI](assets/screenshots/web_errors.png)
+⭐ Reviews Section
+![Web UI](assets/screenshots/web_reviews.png)
 
 ### 📱 Mobile View
-
-
+🧾  Layout
+![Mobile UI](./assets/screenshots/app.png)
+🛠️ Services Section
+![Mobile UI](assets/screenshots/app_services.png)
+⭐ Reviews Section
+![Mobile UI](assets/screenshots/app_reviews.png)
+⚠️ Error Codes Section
+![Mobile UI](assets/screenshots/app_errorcode.png)
+📰 Blog Section
+![Mobile UI](assets/screenshots/app_blogs.png)
 
 ## 🎯 Objective
 
@@ -25,6 +39,7 @@ The goal of this task was to:
 * Use **reusable components**
 * Maintain **clean and readable code structure**
 * Ensure **responsive UI across web and mobile**
+Responsive UI implemented for both Web and Mobile platforms.
 
 ---
 
