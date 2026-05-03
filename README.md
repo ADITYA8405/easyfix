@@ -21,13 +21,21 @@ This project focuses on clean architecture, reusable widgets, and responsive des
 ### 📱 Mobile View
 🧾  Layout
 ![Mobile UI](./assets/screenshots/app.png)
+
 🛠️ Services Section
+
 ![Mobile UI](assets/screenshots/app_services.png)
+
 ⭐ Reviews Section
+
 ![Mobile UI](assets/screenshots/app_reviews.png)
+
 ⚠️ Error Codes Section
+
 ![Mobile UI](assets/screenshots/app_errorcode.png)
+
 📰 Blog Section
+
 ![Mobile UI](assets/screenshots/app_blogs.png)
 
 ## 🎯 Objective
